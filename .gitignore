@@ -1,4 +1,4 @@
 magento/*
-!somefolder/.gitkeep
+!magento/.gitkeep
 
 .env
